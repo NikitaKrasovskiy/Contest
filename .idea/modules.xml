@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Contest.iml" filepath="$PROJECT_DIR$/Contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConturContest/ConturContest.iml" filepath="$PROJECT_DIR$/ConturContest/ConturContest.iml" />
     </modules>
   </component>
 </project>
